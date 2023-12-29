@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+    color: #ededed;
+    background: #374139;
+}
+
+svg {
+    align-self: center;
+}
+
+
+::-webkit-scrollbar {
+    display: none;
+}
